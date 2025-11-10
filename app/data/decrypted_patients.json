@@ -1,0 +1,47 @@
+{
+  "P337": {
+    "age": 39,
+    "blood_pressure": "136 85",
+    "cholesterol": 210,
+    "condition": "Hyperlipidemia",
+    "key_hex": "546217197b107966f71824fb2889a15ef28a29f9c6d9e10645e5d47f38e3ab87",
+    "name": "Patient337",
+    "patient_id": "P337"
+  },
+  "P338": {
+    "age": 34,
+    "blood_pressure": "122 79",
+    "cholesterol": 195,
+    "condition": "Autoimmune",
+    "key_hex": "81090b950c0650d6467441f6ab050d49385385c364d9a2a3c5d402bcaf0e6a1d",
+    "name": "Patient338",
+    "patient_id": "P338"
+  },
+  "P339": {
+    "age": 27,
+    "blood_pressure": "118 77",
+    "cholesterol": 185,
+    "condition": "Asthma",
+    "key_hex": "df9a3c122389a6b2f7469bc5c4f0b39fe78c7f76430ee1211580dabb67686af9",
+    "name": "Patient339",
+    "patient_id": "P339"
+  },
+  "P336": {
+    "age": 46,
+    "blood_pressure": "142 88",
+    "cholesterol": 225,
+    "condition": "Obesity",
+    "key_hex": "3b4bc7c4b5a621ff3da8438ddad6967dccf8d4c49d1b5381c56316d509aba2d1",
+    "name": "Patient336",
+    "patient_id": "P336"
+  },
+  "P340": {
+    "age": 45,
+    "blood_pressure": "120 80",
+    "cholesterol": 175,
+    "condition": "Healthy",
+    "key_hex": "2a796aa9e764215d19dfeb50a2ba2742168383aee8360090e088617b46fa1fb6",
+    "name": "Patient340",
+    "patient_id": "P340"
+  }
+}
